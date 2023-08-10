@@ -1,0 +1,12 @@
+/*.bg{
+    height: 60vh;
+    background-size: cover;
+    background-image: url("/images/ca.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+}*/
+.bg{
+    height: 60vh;
+    width: 100vw;
+    image-resolution: 50px;
+}
